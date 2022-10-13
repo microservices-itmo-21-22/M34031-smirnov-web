@@ -1,8 +1,8 @@
 spring:
   application:
-    name: demo-service
+    name: m34031-smirnov-web
   datasource:
-    url: jdbc:postgresql://postgresql:5432/app
+    url: jdbc:postgresql://postgresql:5432/m34031-smirnov-web
     username: app
     password: app
     driver-class-name: org.postgresql.Driver
