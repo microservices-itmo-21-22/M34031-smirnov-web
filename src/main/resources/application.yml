@@ -4,7 +4,7 @@ spring:
   datasource:
     url: jdbc:postgresql://postgresql:5432/m34031-smirnov-web
     username: app
-    password: app
+    password: changeme
     driver-class-name: org.postgresql.Driver
   jpa:
     database: postgresql
