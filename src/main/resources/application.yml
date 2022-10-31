@@ -23,7 +23,7 @@ security:
   refresh-token-lifetime: 30d
 
 logstash:
-  url: logstash:9600
+  url: logstash:50000
 
 management:
   metrics:
